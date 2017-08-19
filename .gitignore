@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+.metadata/
+/bototest/var/*
+/bototest/tmp*
+/sandbox/
